@@ -14,7 +14,7 @@
 	"value": "",
 	"minValue": 0.0,
 	"maxValue": 0.0,
-	"isDecimal": ture,
+	"isDecimal": true,
 	"fieldItems": [{
 		"itemWid": "55160",
 		"content": "本科生",
@@ -56,7 +56,7 @@
 	"value": "",
 	"minValue": 0.0,
 	"maxValue": 0.0,
-	"isDecimal": ture,
+	"isDecimal": true,
 	"fieldItems": [{
 		"itemWid": "55164",
 		"content": "开发区校区",
@@ -86,7 +86,7 @@
 	"value": "",
 	"minValue": 0.0,
 	"maxValue": 0.0,
-	"isDecimal": ture,
+	"isDecimal": true,
 	"fieldItems": [{
 		"itemWid": "55170",
 		"content": "否",
@@ -116,7 +116,7 @@
 	"value": "",
 	"minValue": 0.0,
 	"maxValue": 0.0,
-	"isDecimal": ture,
+	"isDecimal": true,
 	"fieldItems": [{
 		"itemWid": "55172",
 		"content": "否",
@@ -146,7 +146,7 @@
 	"value": "",
 	"minValue": 0.0,
 	"maxValue": 0.0,
-	"isDecimal": ture,
+	"isDecimal": true,
 	"fieldItems": [{
 		"itemWid": "55174",
 		"content": "否",
@@ -176,7 +176,7 @@
 	"value": "",
 	"minValue": 0.0,
 	"maxValue": 0.0,
-	"isDecimal": ture,
+	"isDecimal": true,
 	"fieldItems": []
 }, {
 	"wid": "26021",
@@ -194,7 +194,7 @@
 	"value": "",
 	"minValue": 0.0,
 	"maxValue": 0.0,
-	"isDecimal": ture,
+	"isDecimal": true,
 	"fieldItems": [{
 		"itemWid": "55176",
 		"content": "否",
@@ -224,7 +224,7 @@
 	"value": "",
 	"minValue": 0.0,
 	"maxValue": 0.0,
-	"isDecimal": ture,
+	"isDecimal": true,
 	"fieldItems": [{
 		"itemWid": "55178",
 		"content": "居家隔离",
@@ -260,7 +260,7 @@
 	"value": "",
 	"minValue": 0.0,
 	"maxValue": 0.0,
-	"isDecimal": ture,
+	"isDecimal": true,
 	"fieldItems": []
 }, {
 	"wid": "26024",
@@ -278,7 +278,7 @@
 	"value": "",
 	"minValue": 0.0,
 	"maxValue": 0.0,
-	"isDecimal": ture,
+	"isDecimal": true,
 	"fieldItems": [{
 		"itemWid": "55181",
 		"content": "否",
@@ -308,7 +308,7 @@
 	"value": "",
 	"minValue": 0.0,
 	"maxValue": 0.0,
-	"isDecimal": ture,
+	"isDecimal": true,
 	"fieldItems": [{
 		"itemWid": "55183",
 		"content": "否",
@@ -338,7 +338,7 @@
 	"value": "",
 	"minValue": 0.0,
 	"maxValue": 0.0,
-	"isDecimal": ture,
+	"isDecimal": true,
 	"fieldItems": [{
 		"itemWid": "55185",
 		"content": "否",
@@ -368,7 +368,7 @@
 	"value": "",
 	"minValue": 0.0,
 	"maxValue": 0.0,
-	"isDecimal": ture,
+	"isDecimal": true,
 	"fieldItems": [{
 		"itemWid": "55187",
 		"content": "36~37.2℃",
@@ -404,7 +404,7 @@
 	"value": "",
 	"minValue": 0.0,
 	"maxValue": 0.0,
-	"isDecimal": ture,
+	"isDecimal": true,
 	"fieldItems": [{
 		"itemWid": "55190",
 		"content": "是",
