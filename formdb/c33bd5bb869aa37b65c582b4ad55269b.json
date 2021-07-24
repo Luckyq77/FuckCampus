@@ -1,6 +1,6 @@
 [{
-	"wid": "26014",
-	"formWid": "1968",
+	"wid ": "25759 ",
+	"formWid": "1944",
 	"fieldType": 2,
 	"title": "你的学生类别？",
 	"description": "",
@@ -16,35 +16,35 @@
 	"maxValue": 0.0,
 	"isDecimal": true,
 	"fieldItems": [{
-		"itemWid": "55160",
+		"itemWid ": "54386 ",
 		"content": "本科生",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": 1
 	}, {
-		"itemWid": "55161",
+		"itemWid ": "54387 ",
 		"content": "第二学士学位",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}, {
-		"itemWid": "55162",
+		"itemWid ": "54388 ",
 		"content": "六盘水师范学院交换生",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}, {
-		"itemWid": "55163",
+		"itemWid ": "54389 ",
 		"content": "其他",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}]
 }, {
-	"wid": "26015",
-	"formWid": "1968",
+	"wid ": "25760 ",
+	"formWid": "1944",
 	"fieldType": 2,
-	"title": "你属于下列哪个校区学生?",
+	"title": "你属于下列哪个校区学生 ? ",
 	"description": "",
 	"minLength": 0,
 	"sort": "2",
@@ -58,23 +58,65 @@
 	"maxValue": 0.0,
 	"isDecimal": true,
 	"fieldItems": [{
-		"itemWid": "55164",
+		"itemWid ": "54390 ",
 		"content": "开发区校区",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": 1
 	}, {
-		"itemWid": "55165",
+		"itemWid ": "54391 ",
 		"content": "市内校区",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}]
 }, {
-	"wid": "26017",
-	"formWid": "1968",
+	"wid ": "25761 ",
+	"formWid": "1944",
 	"fieldType": 2,
-	"title": "你目前是否有疑似/确诊新冠肺炎？",
+	"title": "你目前是否在校？",
+	"description": "",
+	"minLength": 0,
+	"sort": "3",
+	"maxLength": null,
+	"isRequired": 1,
+	"imageCount": null,
+	"hasOtherItems": 1,
+	"colName": "field003",
+	"value": "",
+	"minValue": 0.0,
+	"maxValue": 0.0,
+	"isDecimal": true,
+	"fieldItems": [{
+		"itemWid ": "54392 ",
+		"content": "在校",
+		"isOtherItems": 0,
+		"contendExtend": null,
+		"isSelected": null
+	}, {
+		"itemWid ": "54393 ",
+		"content": "不在校（ 实习、 实训、 见习等）",
+		"isOtherItems": 0,
+		"contendExtend": null,
+		"isSelected": 1
+	}, {
+		"itemWid ": "54394 ",
+		"content": "已请假",
+		"isOtherItems": 0,
+		"contendExtend": null,
+		"isSelected": null
+	}, {
+		"itemWid ": "54395 ",
+		"content": "其他",
+		"isOtherItems": 1,
+		"contendExtend": null,
+		"isSelected": null
+	}]
+}, {
+	"wid ": "25762 ",
+	"formWid": "1944",
+	"fieldType": 2,
+	"title": "你目前是否有疑似 / 确诊新冠肺炎？",
 	"description": "",
 	"minLength": 0,
 	"sort": "4",
@@ -88,23 +130,23 @@
 	"maxValue": 0.0,
 	"isDecimal": true,
 	"fieldItems": [{
-		"itemWid": "55170",
+		"itemWid ": "54396 ",
 		"content": "否",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": 1
 	}, {
-		"itemWid": "55171",
+		"itemWid ": "54397 ",
 		"content": "是",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}]
 }, {
-	"wid": "26018",
-	"formWid": "1968",
+	"wid ": "25763 ",
+	"formWid": "1944",
 	"fieldType": 2,
-	"title": "你目前是否有发热、咳嗽等症状?",
+	"title": "你目前是否有发热、 咳嗽等症状 ? ",
 	"description": "",
 	"minLength": 0,
 	"sort": "5",
@@ -118,23 +160,23 @@
 	"maxValue": 0.0,
 	"isDecimal": true,
 	"fieldItems": [{
-		"itemWid": "55172",
+		"itemWid ": "54398 ",
 		"content": "否",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": 1
 	}, {
-		"itemWid": "55173",
+		"itemWid ": "54399 ",
 		"content": "是",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}]
 }, {
-	"wid": "26019",
-	"formWid": "1968",
+	"wid ": "25764 ",
+	"formWid": "1944",
 	"fieldType": 2,
-	"title": "你目前是否已就诊或正在住院?",
+	"title": "你目前是否已就诊或正在住院 ? ",
 	"description": "",
 	"minLength": 0,
 	"sort": "6",
@@ -148,23 +190,23 @@
 	"maxValue": 0.0,
 	"isDecimal": true,
 	"fieldItems": [{
-		"itemWid": "55174",
+		"itemWid ": "54400 ",
 		"content": "否",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": 1
 	}, {
-		"itemWid": "55175",
+		"itemWid ": "54401 ",
 		"content": "是",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}]
 }, {
-	"wid": "26020",
-	"formWid": "1968",
+	"wid ": "25765 ",
+	"formWid": "1944",
 	"fieldType": 1,
-	"title": "如果已就诊或正在住院，请填写医院名称（未就诊、住院的不填）",
+	"title": "如果已就诊或正在住院， 请填写医院名称（ 未就诊、 住院的不填）",
 	"description": "",
 	"minLength": 1,
 	"sort": "7",
@@ -179,8 +221,8 @@
 	"isDecimal": true,
 	"fieldItems": []
 }, {
-	"wid": "26021",
-	"formWid": "1968",
+	"wid ": "25766 ",
+	"formWid": "1944",
 	"fieldType": 2,
 	"title": "你目前是否被隔离？",
 	"description": "",
@@ -196,23 +238,23 @@
 	"maxValue": 0.0,
 	"isDecimal": true,
 	"fieldItems": [{
-		"itemWid": "55176",
+		"itemWid ": "54402 ",
 		"content": "否",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": 1
 	}, {
-		"itemWid": "55177",
+		"itemWid ": "54403 ",
 		"content": "是",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}]
 }, {
-	"wid": "26022",
-	"formWid": "1968",
+	"wid ": "25767 ",
+	"formWid": "1944",
 	"fieldType": 2,
-	"title": "如果你目前被隔离，请选择你的隔离方式（未被隔离的不填）",
+	"title": "如果你目前被隔离， 请选择你的隔离方式（ 未被隔离的不填）",
 	"description": "",
 	"minLength": 0,
 	"sort": "9",
@@ -226,29 +268,29 @@
 	"maxValue": 0.0,
 	"isDecimal": true,
 	"fieldItems": [{
-		"itemWid": "55178",
+		"itemWid ": "54404 ",
 		"content": "居家隔离",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}, {
-		"itemWid": "55179",
+		"itemWid ": "54405 ",
 		"content": "集中隔离",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}, {
-		"itemWid": "55180",
+		"itemWid ": "54406 ",
 		"content": "校内单独隔离",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}]
 }, {
-	"wid": "26023",
-	"formWid": "1968",
+	"wid ": "25768 ",
+	"formWid": "1944",
 	"fieldType": 1,
-	"title": "如果你目前被隔离，请填写目前被隔离的详细地址（未被隔离的不填）",
+	"title": "如果你目前被隔离， 请填写目前被隔离的详细地址（ 未被隔离的不填）",
 	"description": "",
 	"minLength": 1,
 	"sort": "10",
@@ -263,8 +305,8 @@
 	"isDecimal": true,
 	"fieldItems": []
 }, {
-	"wid": "26024",
-	"formWid": "1968",
+	"wid ": "25769 ",
+	"formWid": "1944",
 	"fieldType": 2,
 	"title": "近1个月是否去过重点疫区或接触过重点疫区人士？",
 	"description": "",
@@ -280,21 +322,21 @@
 	"maxValue": 0.0,
 	"isDecimal": true,
 	"fieldItems": [{
-		"itemWid": "55181",
+		"itemWid ": "54407 ",
 		"content": "否",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": 1
 	}, {
-		"itemWid": "55182",
+		"itemWid ": "54408 ",
 		"content": "是",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}]
 }, {
-	"wid": "26025",
-	"formWid": "1968",
+	"wid ": "25770 ",
+	"formWid": "1944",
 	"fieldType": 2,
 	"title": "近1个月是否接触过确诊病例？",
 	"description": "",
@@ -310,21 +352,21 @@
 	"maxValue": 0.0,
 	"isDecimal": true,
 	"fieldItems": [{
-		"itemWid": "55183",
+		"itemWid ": "54409 ",
 		"content": "否",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": 1
 	}, {
-		"itemWid": "55184",
+		"itemWid ": "54410 ",
 		"content": "是",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}]
 }, {
-	"wid": "26026",
-	"formWid": "1968",
+	"wid ": "25771 ",
+	"formWid": "1944",
 	"fieldType": 2,
 	"title": "近1个月是否接触过疑似病例？",
 	"description": "",
@@ -340,21 +382,21 @@
 	"maxValue": 0.0,
 	"isDecimal": true,
 	"fieldItems": [{
-		"itemWid": "55185",
+		"itemWid ": "54411 ",
 		"content": "否",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": 1
 	}, {
-		"itemWid": "55186",
+		"itemWid ": "54412 ",
 		"content": "是",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}]
 }, {
-	"wid": "26027",
-	"formWid": "1968",
+	"wid ": "25772 ",
+	"formWid": "1944",
 	"fieldType": 2,
 	"title": "你今天的体温是多少？",
 	"description": "",
@@ -370,29 +412,29 @@
 	"maxValue": 0.0,
 	"isDecimal": true,
 	"fieldItems": [{
-		"itemWid": "55187",
+		"itemWid ": "54413 ",
 		"content": "36~37.2℃",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": 1
 	}, {
-		"itemWid": "55188",
+		"itemWid ": "54414 ",
 		"content": "37.3~37.9℃",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}, {
-		"itemWid": "55189",
-		"content": "38℃及以上",
+		"itemWid ": "54415 ",
+		"content": "38℃ 及以上",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": null
 	}]
 }, {
-	"wid": "26028",
-	"formWid": "1968",
+	"wid ": "25773 ",
+	"formWid": "1944",
 	"fieldType": 2,
-	"title": "本人是否承诺以上所填报的全部内容均属实、准确，不存在任何隐瞒与不实的情况，更无遗漏之处 (必填)",
+	"title": "本人是否承诺以上所填报的全部内容均属实、 准确， 不存在任何隐瞒与不实的情况， 更无遗漏之处(必填)",
 	"description": "",
 	"minLength": 0,
 	"sort": "15",
@@ -406,13 +448,13 @@
 	"maxValue": 0.0,
 	"isDecimal": true,
 	"fieldItems": [{
-		"itemWid": "55190",
+		"itemWid ": "54416 ",
 		"content": "是",
 		"isOtherItems": 0,
 		"contendExtend": null,
 		"isSelected": 1
 	}, {
-		"itemWid": "55191",
+		"itemWid ": "54417 ",
 		"content": "否",
 		"isOtherItems": 0,
 		"contendExtend": null,
