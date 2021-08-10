@@ -47,4 +47,4 @@ jobs:
           
       - name: server酱
         run: |
-          curl -g "https://sc.ftqq.com/${{ secrets.SCKEY }}.send?text=徐总今日校园已完成&&desp=[details](https://java8.ml)"
+          curl -g "https://telechan-black-pi.vercel.app/api/send?sendkey=1155501788T7932a4598ae119668ea4b2b469be1d1f&text=%E4%BB%8A%E6%97%A5%E6%A0%A1%E5%9B%AD%E5%AE%8C%E6%88%90"
