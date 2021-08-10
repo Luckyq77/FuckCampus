@@ -47,4 +47,4 @@ jobs:
           
       - name: server酱
         run: |
-          curl -g "https://sc.ftqq.com/${{ secrets.SCKEY }}.send?text=徐总今日校园已完成&&desp=[details](https://java8.ml)"
+          curl -g "https://sctapi.ftqq.com/SCT29076T9hjWVUWqA7lATVZllK4hPYZx.send?title=徐总今日校园已完成"
