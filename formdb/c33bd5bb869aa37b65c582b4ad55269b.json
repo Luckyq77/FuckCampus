@@ -1,6 +1,6 @@
 [{
-	"wid": "41334",
-	"formWid": "2315",
+	"wid": "42627",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "你的学生类别？",
 	"description": "",
@@ -9,9 +9,9 @@
 	"sort": 1,
 	"colName": "field001",
 	"fieldItems": [{
-		"itemWid": "84994",
+		"itemWid": "87174",
 		"content": "本科生",
-		"imageUrl": 0,
+		"imageUrl": null,
 		"isOtherItems": 0,
 		"contentExtend": "",
 		"otherItemType": "1",
@@ -23,7 +23,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "84995",
+		"itemWid": "87175",
 		"content": "第二学士学位",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -37,7 +37,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "84996",
+		"itemWid": "87176",
 		"content": "贵州师范、北方民族大学、六盘水师范等学院交换生",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -51,7 +51,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "84997",
+		"itemWid": "87177",
 		"content": "其他",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -90,8 +90,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41335",
-	"formWid": "2315",
+	"wid": "42628",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "你属于下列哪个校区学生?",
 	"description": "",
@@ -100,7 +100,7 @@
 	"sort": 2,
 	"colName": "field002",
 	"fieldItems": [{
-		"itemWid": "84998",
+		"itemWid": "87178",
 		"content": "开发区校区",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -114,7 +114,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "84999",
+		"itemWid": "87179",
 		"content": "市内校区",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -153,8 +153,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41336",
-	"formWid": "2315",
+	"wid": "42629",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "你目前是否在校？",
 	"description": "",
@@ -163,7 +163,7 @@
 	"sort": 3,
 	"colName": "field003",
 	"fieldItems": [{
-		"itemWid": "85000",
+		"itemWid": "87180",
 		"content": "现在校，本人现在学校内",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -177,8 +177,8 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85001",
-		"content": "不在校（参加实习、实训、见习等）",
+		"itemWid": "87181",
+		"content": "不在校（正在参加校外实习、实训、见习等）",
 		"imageUrl": null,
 		"isOtherItems": 0,
 		"contentExtend": "",
@@ -191,7 +191,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85002",
+		"itemWid": "87182",
 		"content": "不在校，但因事或因病暂未返校（已向辅导员老师请假）",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -205,7 +205,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85003",
+		"itemWid": "87183",
 		"content": "其他",
 		"imageUrl": null,
 		"isOtherItems": true,
@@ -261,8 +261,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41337",
-	"formWid": "2315",
+	"wid": "42630",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "你今日是否出校？",
 	"description": "",
@@ -271,7 +271,7 @@
 	"sort": 4,
 	"colName": "field004",
 	"fieldItems": [{
-		"itemWid": "85004",
+		"itemWid": "87184",
 		"content": "不出校",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -285,7 +285,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85005",
+		"itemWid": "87185",
 		"content": "出校，不离开大连市",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -299,8 +299,22 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85006",
+		"itemWid": "87186",
 		"content": "出校，离开大连市（因极特殊情况离连，已向学院请假并获批准）",
+		"imageUrl": null,
+		"isOtherItems": 0,
+		"contentExtend": "",
+		"otherItemType": "1",
+		"basicConfig": null,
+		"showLogic": "",
+		"isAnswer": 0,
+		"score": null,
+		"isSelected": null,
+		"selectCount": null,
+		"totalCount": 0
+	}, {
+		"itemWid": "87187",
+		"content": "正在参加校外实习实训，不在校",
 		"imageUrl": null,
 		"isOtherItems": 0,
 		"contentExtend": "",
@@ -338,11 +352,11 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41338",
-	"formWid": "2315",
+	"wid": "42631",
+	"formWid": "2345",
 	"fieldType": "1",
 	"title": "你今日出校的行程轨迹？",
-	"description": "1、不出校请填写“不出校”，2、出校的，请您详细填写具体到达的省、市、区（县）、街道（乡镇）、村（社区）",
+	"description": "1、不出校请填写“不出校”，2、出校的，请您详细填写具体到达的省、市、区（县）、街道（乡镇）、村（社区），3、校外实习实训的填写“正在参加校外实习实训”",
 	"isRequired": true,
 	"hasOtherItems": 0,
 	"sort": 5,
@@ -373,8 +387,8 @@
 	"value": "不出校",
 	"show": null
 }, {
-	"wid": "41339",
-	"formWid": "2315",
+	"wid": "42632",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "你明日是否计划出校？",
 	"description": "",
@@ -383,22 +397,8 @@
 	"sort": 6,
 	"colName": "field006",
 	"fieldItems": [{
-		"itemWid": "85007",
+		"itemWid": "87188",
 		"content": "不出校",
-		"imageUrl": null,
-		"isOtherItems": 0,
-		"contentExtend": "",
-		"otherItemType": "1",
-		"basicConfig": null,
-		"showLogic": "",
-		"isAnswer": 0,
-		"score": null,
-		"isSelected": null,
-		"selectCount": null,
-		"totalCount": 0
-	}, {
-		"itemWid": "85008",
-		"content": "出校，不离开大连市",
 		"imageUrl": null,
 		"isOtherItems": 0,
 		"contentExtend": "",
@@ -411,8 +411,36 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85009",
+		"itemWid": "87189",
+		"content": "出校，不离开大连市",
+		"imageUrl": null,
+		"isOtherItems": 0,
+		"contentExtend": "",
+		"otherItemType": "1",
+		"basicConfig": null,
+		"showLogic": "",
+		"isAnswer": 0,
+		"score": null,
+		"isSelected": null,
+		"selectCount": null,
+		"totalCount": 0
+	}, {
+		"itemWid": "87190",
 		"content": "出校，计划离开大连市（因极特殊情况离连，已向学院请假并获批准）",
+		"imageUrl": null,
+		"isOtherItems": 0,
+		"contentExtend": "",
+		"otherItemType": "1",
+		"basicConfig": null,
+		"showLogic": "",
+		"isAnswer": 0,
+		"score": null,
+		"isSelected": null,
+		"selectCount": null,
+		"totalCount": 0
+	}, {
+		"itemWid": "87191",
+		"content": "正在参加校外实习实训，不在校",
 		"imageUrl": null,
 		"isOtherItems": 0,
 		"contentExtend": "",
@@ -450,11 +478,11 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41340",
-	"formWid": "2315",
+	"wid": "42633",
+	"formWid": "2345",
 	"fieldType": "1",
 	"title": "你明日计划出校的行程轨迹？",
-	"description": "1、不出校的，请填写“不出校”，2、出校的，请您详细填写具体到达的省、市、区（县）、街道（乡镇）、村（社区）",
+	"description": "1、不出校的，请填写“不出校”，2、出校的，请您详细填写具体到达的省、市、区（县）、街道（乡镇）、村（社区） 3、校外实习实训的填写“正在参加校外实习实训”",
 	"isRequired": true,
 	"hasOtherItems": 0,
 	"sort": 7,
@@ -482,11 +510,11 @@
 		"voteMaxValue": null
 	},
 	"logicWid": 22,
-	"value": "西安路",
+	"value": "不出校",
 	"show": null
 }, {
-	"wid": "41341",
-	"formWid": "2315",
+	"wid": "42634",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "你目前的居住地区是否为疫情中高风险地区？",
 	"description": "",
@@ -495,7 +523,7 @@
 	"sort": 8,
 	"colName": "field008",
 	"fieldItems": [{
-		"itemWid": "85010",
+		"itemWid": "87192",
 		"content": "否",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -509,7 +537,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85011",
+		"itemWid": "87193",
 		"content": "是，现为中风险地区",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -523,7 +551,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85012",
+		"itemWid": "87194",
 		"content": "是，现为高风险地区",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -562,8 +590,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41342",
-	"formWid": "2315",
+	"wid": "42635",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "你目前是否有疑似/确诊新冠肺炎？",
 	"description": "",
@@ -572,7 +600,7 @@
 	"sort": 9,
 	"colName": "field009",
 	"fieldItems": [{
-		"itemWid": "85013",
+		"itemWid": "87195",
 		"content": "否",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -586,7 +614,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85014",
+		"itemWid": "87196",
 		"content": "是",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -625,8 +653,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41343",
-	"formWid": "2315",
+	"wid": "42636",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "你目前是否有发热、咳嗽等症状?",
 	"description": "",
@@ -635,7 +663,7 @@
 	"sort": 10,
 	"colName": "field010",
 	"fieldItems": [{
-		"itemWid": "85015",
+		"itemWid": "87197",
 		"content": "否",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -649,7 +677,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85016",
+		"itemWid": "87198",
 		"content": "是",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -688,8 +716,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41344",
-	"formWid": "2315",
+	"wid": "42637",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "你目前是否已就诊或正在住院?",
 	"description": "",
@@ -698,7 +726,7 @@
 	"sort": 11,
 	"colName": "field011",
 	"fieldItems": [{
-		"itemWid": "85017",
+		"itemWid": "87199",
 		"content": "否",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -712,7 +740,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85018",
+		"itemWid": "87200",
 		"content": "是",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -751,8 +779,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41345",
-	"formWid": "2315",
+	"wid": "42638",
+	"formWid": "2345",
 	"fieldType": "1",
 	"title": "如果已就诊或正在住院，请填写医院名称（未就诊、住院的不填）",
 	"description": "",
@@ -786,8 +814,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41346",
-	"formWid": "2315",
+	"wid": "42639",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "你目前是否被隔离？",
 	"description": "",
@@ -796,7 +824,7 @@
 	"sort": 13,
 	"colName": "field013",
 	"fieldItems": [{
-		"itemWid": "85019",
+		"itemWid": "87201",
 		"content": "否",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -810,7 +838,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85020",
+		"itemWid": "87202",
 		"content": "是",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -849,8 +877,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41347",
-	"formWid": "2315",
+	"wid": "42640",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "如果你目前被隔离，请选择你的隔离方式（未被隔离的不填）",
 	"description": "",
@@ -859,7 +887,7 @@
 	"sort": 14,
 	"colName": "field014",
 	"fieldItems": [{
-		"itemWid": "85021",
+		"itemWid": "87203",
 		"content": "居家隔离",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -873,7 +901,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85022",
+		"itemWid": "87204",
 		"content": "集中隔离",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -887,7 +915,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85023",
+		"itemWid": "87205",
 		"content": "校内单独隔离",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -926,8 +954,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41348",
-	"formWid": "2315",
+	"wid": "42641",
+	"formWid": "2345",
 	"fieldType": "1",
 	"title": "如果你目前被隔离，请填写目前被隔离的详细地址（未被隔离的不填）",
 	"description": "",
@@ -961,8 +989,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41349",
-	"formWid": "2315",
+	"wid": "42642",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "近1个月是否去过重点疫区或接触过重点疫区人士？",
 	"description": "",
@@ -971,7 +999,7 @@
 	"sort": 16,
 	"colName": "field016",
 	"fieldItems": [{
-		"itemWid": "85024",
+		"itemWid": "87206",
 		"content": "否",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -985,7 +1013,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85025",
+		"itemWid": "87207",
 		"content": "是",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -1024,8 +1052,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41350",
-	"formWid": "2315",
+	"wid": "42643",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "近1个月是否接触过确诊病例？",
 	"description": "",
@@ -1034,7 +1062,7 @@
 	"sort": 17,
 	"colName": "field017",
 	"fieldItems": [{
-		"itemWid": "85026",
+		"itemWid": "87208",
 		"content": "否",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -1048,7 +1076,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85027",
+		"itemWid": "87209",
 		"content": "是",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -1087,8 +1115,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41351",
-	"formWid": "2315",
+	"wid": "42644",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "近1个月是否接触过疑似病例？",
 	"description": "",
@@ -1097,7 +1125,7 @@
 	"sort": 18,
 	"colName": "field018",
 	"fieldItems": [{
-		"itemWid": "85028",
+		"itemWid": "87210",
 		"content": "否",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -1111,7 +1139,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85029",
+		"itemWid": "87211",
 		"content": "是",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -1150,8 +1178,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41352",
-	"formWid": "2315",
+	"wid": "42645",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "你今天的体温是多少？",
 	"description": "",
@@ -1160,7 +1188,7 @@
 	"sort": 19,
 	"colName": "field019",
 	"fieldItems": [{
-		"itemWid": "85030",
+		"itemWid": "87212",
 		"content": "36~37.2℃",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -1174,7 +1202,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85031",
+		"itemWid": "87213",
 		"content": "37.3~37.9℃",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -1188,7 +1216,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85032",
+		"itemWid": "87214",
 		"content": "38℃及以上",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -1227,8 +1255,8 @@
 	"value": "",
 	"show": null
 }, {
-	"wid": "41353",
-	"formWid": "2315",
+	"wid": "42646",
+	"formWid": "2345",
 	"fieldType": "2",
 	"title": "本人是否承诺以上所填报的全部内容均属实、准确，不存在任何隐瞒与不实的情况，更无遗漏之处 (必填)",
 	"description": "",
@@ -1237,7 +1265,7 @@
 	"sort": 20,
 	"colName": "field020",
 	"fieldItems": [{
-		"itemWid": "85033",
+		"itemWid": "87215",
 		"content": "是",
 		"imageUrl": null,
 		"isOtherItems": 0,
@@ -1251,7 +1279,7 @@
 		"selectCount": null,
 		"totalCount": 0
 	}, {
-		"itemWid": "85034",
+		"itemWid": "87216",
 		"content": "否",
 		"imageUrl": null,
 		"isOtherItems": 0,
